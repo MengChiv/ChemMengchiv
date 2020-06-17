@@ -1,4 +1,4 @@
 package com.example.chemmengchiv;
 
-public class HomeAcitivty {
+public class HomeActivity {
 }
